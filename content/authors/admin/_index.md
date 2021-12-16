@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Patricia Hunt
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Theoretical and Computational Chemistry
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Victoria University of Wellington
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'patricia.hunt@vuw.ac.nz'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
@@ -57,17 +57,26 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "patricia.hunt@vuw.ac.nz"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+#   Set this to `[]` or comment out if you are not using People widget.i
 user_groups:
 - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Prof Patricia Hunt completed her BSc and MSc (with Honours) in physics and chemistry at the University of Auckland, New Zealand, her PhD was in the areas of Group 15 inversion,  transition metal bonding and relativistic effects in small gold clusters with Peter Schwerdfeger.  During this time she also completed a BA in politics and philosophy.  Subsequently Patricia took up a position at Kings College London, London UK with Prof. Mike Robb developing the theory (and coding) on-the-fly dynamics through conical intersections employing the CASSCF method.  She then moved on to Cambridge University, Cambridge, UK working with Prof Micheal Sprik, developing (and coding) the effective MO theory for analysing ab-initio molecular dynamics studying the solvation of small ions in aqueous solutions.  She was then awarded prestigious Royal Society University Research Fellowship which she took up at Imperial College London, at the end of the fellowship she stayed at Imperial College raising through the ranks to become Prof of Theoretical and Computational Chemistry.  In 2020 she took up her current position at Victoria University of Wellington.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Research Interests
+The Hunt Research Group is a theoretical and computational chemistry group which carries out theoretical development and computational modelling. Our research is focused towards understanding the chemistry and physics associated with solvents and solvation, particularly as this applies to ionic-liquids and deep eutectic solvents. We study the making and breaking of molecules, which includes catalytic mechanisms (for group II and frustrated lewis acid-base pairs) and chemical decomposition (for green fuels, bio-fuels and ionic-liquids). Overarching all of these areas is a specialisation in hydrogen-bonding, acid-base interactions and an expertise in the MO theory of bonding. We have developed the Effective MO Method for interrogating the electronic structure of liquids and study charge partitioning and interactions within molecules.
+
+Key areas are:
+• ionic liquids (ILs), deep eutectic solvents (DES), molten salts, aqueous, traditional organic solvents
+• solvation of molecules and ions in ILs, DES and aqueous solutions
+• fundamental and theoretical studies on charge, advanced molecular orbital theory, complex bonding
+• hydrogen-bonding, both traditional and novel areas such as doubly ionic H-bonds
+• reactivity, catalysis, frustrated Lewis acid/base pairs (FLPs), reactivity at Group 2 metal centers
+• decontamination of chemical warfare agents, novel green fuels and better electrolytes for battery applications
