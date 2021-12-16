@@ -11,7 +11,7 @@ title: |
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
   # Add custom styles
   css_style:
   css_class:
@@ -19,5 +19,6 @@ design:
 
 <br>
 VUW Centre for Simulation, Numerical methods, Analytics and Programming (VUW-SNAP)
+
 
 The 21st century has seen powerful advances in computer hardware and software leading to a rapid increase in the exploitation of computation within the natural sciences, social sciences, and engineering disciplines. Significant advances have brought numerical modelling, data analysis and simulation disciplines to the forefront. There has also been a large ground swell in the use of programming and scripting across all disciplines.
