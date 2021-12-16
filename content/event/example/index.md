@@ -1,10 +1,10 @@
 ---
-title: Example Event
+title: SNAP Inagural Symposium
 
-event: Wowchemy Conference
+event: 
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: Online
 address:
   street: 450 Serra Mall
   city: Stanford
