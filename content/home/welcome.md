@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: |
+title: {10:00}d|1a|0[-]t|3a|2l|1e|2g|1r|3[++]e|2y|1a|2{18:30}
   SNAP
 hero_media: welcome.jpg
 design:
