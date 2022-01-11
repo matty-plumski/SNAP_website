@@ -1,22 +1,17 @@
 
 @font-face {
 	font-family: 'Datalegreya-Thin';
-	src: url('fonts/Datalegreya-Thin.otf');
+	src: url('Datalegreya-Thin.otf');
 	font-weight: normal;
 	font-style: normal;
 }
 @font-face {
 	font-family: 'Datalegreya-Gradient';
-	src: url('fonts/Datalegreya-Gradient.otf');
+	src: url('Datalegreya-Gradient.otf');
 	font-weight: normal;
 	font-style: normal;
 }
-@font-face {
-	font-family: 'Datalegreya-Dot';
-	src: url('fonts/Datalegreya-Dot.otf');
-	font-weight: normal;
-	font-style: normal;
-}
+
 
 body {
 	-webkit-font-feature-settings: "kern" on, "liga" on, "calt" on;
