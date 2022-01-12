@@ -7,7 +7,7 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: SNAP
-hero_media: Hunt_chem_model_transp.gif
+hero_media: 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
@@ -24,7 +24,7 @@ The 21st century has seen powerful advances in computer hardware and software le
 
 # s|1i|0m|3u|2l|1a|2t|1i|3o|2n
 # n|1u|0m|3e|2r|1i|2c|1a|3l m|1e|0t|3h|2o|1d|2s
-# a|1n|0l|3y|2t|1i|2c|1s|3
+# a|1n|0a||0l|3y|2t|1i|2c|1s|3
 # p|1r|0o|3g|2r|1a|2m|1m|2i|1n|0g|3
 
- ![Alt text for my gif](/Hunt_chem_model_transp.gif)
+ ![Alt text for my gif](/uploads/Hunt_chem_model_transp.gif)
