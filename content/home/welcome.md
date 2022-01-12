@@ -26,3 +26,5 @@ The 21st century has seen powerful advances in computer hardware and software le
 # n|1u|0m|3e|2r|1i|2c|1a|3l m|1e|0t|3h|2o|1d|2s
 # a|1n|0l|3y|2t|1i|2c|1s|3
 # p|1r|0o|3g|2r|1a|2m|1m|2i|1n|0g|3
+
+ ![Alt text for my gif](/Hunt_chem_model_transp.gif)
