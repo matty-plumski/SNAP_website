@@ -33,18 +33,10 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 }
 
-h1, h2, h3, h4 {
+#navbar-main .main-menu-item ul li .nav-link {
+    color: #fff;
     text-transform: uppercase;
 }
-.dropdown-menu,
-nav#navbar-main li.nav-item {
-  font-size: 1.2rem;
-}
-
-.navbar-brand {
-    font-size: 1.8rem;
-}
-
 
 
 
