@@ -12,16 +12,17 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   # Add custom styles
-  css_style: custom
+  css_style: custom.css
   css_class:
 ---
 
-<br>
+# §2s|1i|0m|3u|2l|1a|2t|1i|3o|2n | n|1u|0m|3e|2r|1i|2c|1a|3l m|1e|0t|3h|2o|1d|2s |  a|1n|0a|0l|3y|2t|1i|2c|1s|3 | p|1r|0o|3g|2r|1a|2m|1m|2i|1n|0g|3
+
 VUW Centre for Simulation, Numerical methods, Analytics and Programming (VUW-SNAP)
 
 
 The 21st century has seen powerful advances in computer hardware and software leading to a rapid increase in the exploitation of computation within the natural sciences, social sciences, and engineering disciplines. Significant advances have brought numerical modelling, data analysis and simulation disciplines to the forefront. There has also been a large ground swell in the use of programming and scripting across all disciplines.
 
-# s|1i|0m|3u|2l|1a|2t|1i|3o|2n | n|1u|0m|3e|2r|1i|2c|1a|3l m|1e|0t|3h|2o|1d|2s |  a|1n|0a|0l|3y|2t|1i|2c|1s|3 | p|1r|0o|3g|2r|1a|2m|1m|2i|1n|0g|3
 
- ![Alt text for my gif](/uploads/Hunt_chem_model_transp.gif)
+
+ ![Patrica Hunt's Chemical Model](/uploads/Hunt_chem_model_transp.gif)
