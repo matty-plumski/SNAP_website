@@ -4,18 +4,24 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: News
-    url: post
+  - name: About Us
+    url: about
     weight: 20
-  - name: People
-    url: people
-    weight: 30
   - name: Events
-    url: event
+    url: events
+    weight: 30
+  - name: Courses/Upskill
+    url: courses
     weight: 40
-  - name: Publications
-    url: publication
+  - name: Find Expert
+    url: expert
     weight: 50
-  - name: Contact
+  - name: Codes
+    url: code
+    weight: 55
+  - name: Contact Us
     url: contact
+    weight: 60
+  - name: Content
+    url: projects
     weight: 60
