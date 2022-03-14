@@ -7,10 +7,10 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: SNAP
-hero_media: 
+hero_media: /uploads/Hunt_chem_model_transp.gif
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
   # Add custom styles
   css_style: custom.css
   css_class:
