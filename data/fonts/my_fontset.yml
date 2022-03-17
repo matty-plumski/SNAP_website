@@ -5,7 +5,7 @@ name: "My Font Set"
 google_fonts: "Oswald:400,500|Alatsi|Roboto:400,400italic,700|Roboto+Mono|Permanent Marker|Emblema One|Libre Barcode 128 Text"
 
 # Font families
-heading_font: "Datalegreya-Thin"
+heading_font: 'Datalegreya-Thin'
 body_font: "Roboto"
 nav_font: "Oswald"
 mono_font:  "Roboto Mono"
